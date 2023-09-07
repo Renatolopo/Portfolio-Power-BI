@@ -2,6 +2,7 @@
 
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 - [Simulador de Volume](./Simulador%20Vol/)
+- [Dashboard Financeiro](./Financeiro/)
 - [Dashboard DRE](./DRE/)
 - [Dashboard Estoque](./Estoque/)
 - [Dashboard Fluxo de Caixa](./Fluxo%20de%20Caixa/)
@@ -16,12 +17,22 @@ Este relatório simula a quantidade de volume que poderia esta sendo vendido nas
 ![Simulador1](./imgs/simulador%20Vol%202.png)
 > Aqui temos uma visão mais detalhada da nossa métrica  de oportunidade de Vol, utilizando de gráficos para facilitar a nossa visualização, onde podemos identificar as redes com maior oportunidades e seus respectivos produtos com o maior indicador, além de um gráfico onde e possivel ver o evolutivo.
 
-![Simulador1](./imgs/simulador%20Vol%203.png)
+![Simulador1](./imgs/Simulador%20Vol%203.png)
 > Esse gráfico mostra uma hierarquia onde e possível expandir desde a regional ate os produtos com uma visualização mais precisa de onde se tem as melhores oportunidade de Vol.
 
 #### Estrutura e Modelagem da base de dados
 
 ![Estrutura estoque](./imgs/estrutura%20simulador.png)
+
+### Dashboard Financeiro
+#### Sobre o Relatório
+A Ideia desse relátorio e mostrar um cenário ficticio de alguns dados financeiro de uma empresa, bem resumido. 
+
+![Financeiro](./imgs/financeiro.png)
+> Os principais indicadores nesse relatório são: 
+> * Margem de lucro: é a porcentagem de lucro que a empresa ganha em cada venda. Ela pode ser calculada dividindo o lucro líquido pela receita total.
+> * Fluxo de caixa: é uma medida do dinheiro que entra e sai da empresa em um determinado período de tempo. Pode ser visto na tabela no canto inferior direito.
+> * Total Despesas/Receita: Podem ser vista tanto o total geral, quanto por componentes
 
 
 ### Dashboard DRE
