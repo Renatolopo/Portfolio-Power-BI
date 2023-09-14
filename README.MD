@@ -1,11 +1,27 @@
 # Portfólio Power BI 📊
 
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
-- [Simulador de Volume](./Simulador%20Vol/)
 - [Dashboard Financeiro](./Financeiro/)
+- [Simulador de Volume](./Simulador%20Vol/)
 - [Dashboard DRE](./DRE/)
 - [Dashboard Estoque](./Estoque/)
 - [Dashboard Fluxo de Caixa](./Fluxo%20de%20Caixa/)
+
+### Dashboard Financeiro
+#### Sobre o Relatório
+O relátorio completo pode ser visualizado por [aqui](https://app.powerbi.com/view?r=eyJrIjoiMjJjNzJlZmEtZmY0OS00NGE1LTkyZDAtZGIxNDM5ZDQ3M2EyIiwidCI6IjZiMjM0MmZhLTIzZWItNDc1OS04YjRkLWNkMTc4ODgyNzdhNSJ9). A Ideia desse relátorio e mostrar um cenário ficticio de alguns dados financeiro de uma empresa. O relatorio tem 3 paginas contendo resumo, resumo detalhado com fluxo de caixa e DRE.
+
+![Pagina1](./imgs/financeiro1.png)
+> Essa é a página de resumo onde é possível ver os principais indicadores no lado esquerdo (Receitas, Despesas e Resultado Líquido). Na parte superior esquerda tem um filtro onde é possível escolher qual indicador aparece nos gráficos.
+
+![Pagina2](./imgs/financeiro2.png)
+> Aqui temos os gráficos mais detalhados sobre os indicadores financeiros do cenário fictício.
+
+![Pagina2](./imgs/financeiro3.png)
+> Por último temos um gráfico de DRE com análise horizontal e vertical.
+
+#### Estrutura e Modelagem da base de dados
+![dados](./imgs/estrutura%20financeiro.png)
 
 ### Simulador de Volume
 #### Sobre o Relatório
@@ -23,16 +39,6 @@ Este relatório simula a quantidade de volume que poderia esta sendo vendido nas
 #### Estrutura e Modelagem da base de dados
 
 ![Estrutura estoque](./imgs/estrutura%20simulador.png)
-
-### Dashboard Financeiro
-#### Sobre o Relatório
-A Ideia desse relátorio e mostrar um cenário ficticio de alguns dados financeiro de uma empresa, bem resumido. 
-
-![Financeiro](./imgs/financeiro.png)
-> Os principais indicadores nesse relatório são: 
-> * Margem de lucro: é a porcentagem de lucro que a empresa ganha em cada venda. Ela pode ser calculada dividindo o lucro líquido pela receita total.
-> * Fluxo de caixa: é uma medida do dinheiro que entra e sai da empresa em um determinado período de tempo. Pode ser visto na tabela no canto inferior direito.
-> * Total Despesas/Receita: Podem ser vista tanto o total geral, quanto por componentes
 
 
 ### Dashboard DRE
