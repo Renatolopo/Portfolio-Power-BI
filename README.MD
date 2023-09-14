@@ -7,6 +7,12 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 - [Dashboard Estoque](./Estoque/)
 - [Dashboard Fluxo de Caixa](./Fluxo%20de%20Caixa/)
 
+
+<div>
+    <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjJjNzJlZmEtZmY0OS00NGE1LTkyZDAtZGIxNDM5ZDQ3M2EyIiwidCI6IjZiMjM0MmZhLTIzZWItNDc1OS04YjRkLWNkMTc4ODgyNzdhNSJ9" frameborder="0" allowFullScreen="true">
+    </iframe>
+</div>
+
 ### Simulador de Volume
 #### Sobre o Relatório
 Este relatório simula a quantidade de volume que poderia esta sendo vendido nas lojas se os produtos não estivessem em ruptura. O calculo de "Oportunidade de Vol" e feito usando 2 bases, uma de ruptura e outra de sellin, com essas bases e calculado a quantidade de lojas com ruptura e depois é multiplicado pelo Vol médio para chegar na Oportunidade de Vol. Todos os dados usado nesse relatório são dados fictícios.
