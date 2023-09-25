@@ -25,6 +25,7 @@ O relátorio completo pode ser visualizado por [aqui](https://app.powerbi.com/vi
 
 ### Simulador de Volume
 #### Sobre o Relatório
+O relátorio completo pode ser visualizado por [aqui](https://app.powerbi.com/view?r=eyJrIjoiZGI0ZDU2YmQtNmQ4NS00ZjA5LWE4NGQtYzUzZTljYmU2NjNkIiwidCI6IjZiMjM0MmZhLTIzZWItNDc1OS04YjRkLWNkMTc4ODgyNzdhNSJ9).
 Este relatório simula a quantidade de volume que poderia esta sendo vendido nas lojas se os produtos não estivessem em ruptura. O calculo de "Oportunidade de Vol" e feito usando 2 bases, uma de ruptura e outra de sellin, com essas bases e calculado a quantidade de lojas com ruptura e depois é multiplicado pelo Vol médio para chegar na Oportunidade de Vol. Todos os dados usado nesse relatório são dados fictícios.
 
 ![Simulador1](./imgs/simulador%20Vol%201.png)
