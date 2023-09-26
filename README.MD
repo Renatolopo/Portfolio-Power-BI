@@ -39,7 +39,7 @@ Este relatório simula a quantidade de volume que poderia esta sendo vendido nas
 
 #### Estrutura e Modelagem da base de dados
 
-![Estrutura estoque](./imgs/estrutura%20simulador.png)
+![Estrutura ](./imgs/estrutura%20simulador.png)
 
 
 ### Dashboard DRE
@@ -97,7 +97,7 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 
 ### Dashboard Esoque
 #### Sobre o Relatório
-O relatório de estoque oferece uma visão abrangente e interativa do status atual dos produtos em estoque. O relatório permite que os usuários tomem decisões informadas sobre gerenciamento de estoque, planejamento de compras e otimização de recursos. Através de gráficos intuitivos e tabelas dinâmicas, o relatório proporciona insights valiosos para melhorar a eficiência operacional e a tomada de decisões estratégicas.
+O relatório de estoque oferece uma visão abrangente e interativa do status atual dos produtos em estoque. O relatório permite que os usuários tomem decisões informadas sobre gerenciamento de estoque, planejamento de compras e otimização de recursos. Através de gráficos intuitivos e tabelas dinâmicas, o relatório proporciona insights valiosos para melhorar a eficiência operacional e a tomada de decisões estratégicas. O relátorio completo pode ser visualizado por [aqui](https://app.powerbi.com/view?r=eyJrIjoiMTEyNWRmOWYtYjM5YS00ZjdlLTk5NWEtMDlmZjFkMmRlZWUwIiwidCI6IjZiMjM0MmZhLTIzZWItNDc1OS04YjRkLWNkMTc4ODgyNzdhNSJ9).
 
 ![Imagen que exemplifica o funcionando do Dashboard Estoque](./imgs/estoque.png)
 
@@ -111,8 +111,6 @@ O relatório de estoque oferece uma visão abrangente e interativa do status atu
 ***Estoque*** Quantidade de produtos em estoque no período.
 
 ***Lucro Total*** Lucro obtido com os produtos que sairam de estoque no periodo.
-
-***% Lucro Total*** % que cada produto ou loja representa do lucro total, afim de identificar quais produtos são mais valiosos para empresa.
 
 #### Estrutura da base de dados
 
