@@ -49,13 +49,11 @@ O relatório de estoque oferece uma visão abrangente e interativa do status atu
 
 
 ##### Principais Indicadores:
-***Entradas*** Quantidade de Produtos que entraram em estoque no período.
+- **Entradas:** Quantidade de Produtos que entraram em estoque no período.
+- **Saídas:** Quantidade de produtos que saíram de estoque no período.
+- **Estoque:** Quantidade de produtos em estoque no período.
+- **Lucro Total:** Lucro obtido com os produtos que saíram de estoque no período.
 
-***Saidas*** Quantidade de produtos que sairam de estoque no período.
-
-***Estoque*** Quantidade de produtos em estoque no período.
-
-***Lucro Total*** Lucro obtido com os produtos que sairam de estoque no periodo.
 
 #### Estrutura da base de dados
 
